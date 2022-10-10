@@ -1,10 +1,9 @@
-# Sample Snack app
+# Ejercicio 2
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+* Elaborar una aplicación móvil de servicios de streaming para videos, en el cual se proporciona opciones de películas y series. Desarrollado en Expo.dev
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Paquetes adicionales usados:
+* @expo/vector-icons - para los iconos
 
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
